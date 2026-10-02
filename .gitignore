@@ -8,3 +8,5 @@ airflow.cfg
 airflow.db
 
 *.pyc
+
+airflow_images.tar
