@@ -35,3 +35,7 @@ def xcoms_dag_auto():
     
 #Instantiating the DAG 
 xcoms_dag_auto()
+
+"""
+XCOMS - Cross Communication between tasks in Airflow.
+"""
